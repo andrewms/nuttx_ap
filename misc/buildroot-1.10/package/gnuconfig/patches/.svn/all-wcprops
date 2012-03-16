@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/patches
+END
+config.sub.sh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/patches/config.sub.sh.patch
+END
+config.sub.ps2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/patches/config.sub.ps2.patch
+END

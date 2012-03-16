@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/nuttx/!svn/ver/1703/trunk/misc/buildroot/toolchain/gcc/4.2.4
+END
+800-arm-bigendian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/nuttx/!svn/ver/1456/trunk/misc/buildroot/toolchain/gcc/4.2.4/800-arm-bigendian.patch
+END
+300-libstdc++-pic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/nuttx/!svn/ver/1456/trunk/misc/buildroot/toolchain/gcc/4.2.4/300-libstdc++-pic.patch
+END
+910-soft-float.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/nuttx/!svn/ver/1456/trunk/misc/buildroot/toolchain/gcc/4.2.4/910-soft-float.patch
+END
+920-soft-float.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/nuttx/!svn/ver/1456/trunk/misc/buildroot/toolchain/gcc/4.2.4/920-soft-float.patch
+END
+305-libmudflap-susv3-legacy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/nuttx/!svn/ver/1456/trunk/misc/buildroot/toolchain/gcc/4.2.4/305-libmudflap-susv3-legacy.patch
+END
+402-libbackend_dep_gcov-iov.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/nuttx/!svn/ver/1456/trunk/misc/buildroot/toolchain/gcc/4.2.4/402-libbackend_dep_gcov-iov.h.patch
+END
+904-flatten-switch-stmt-00.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/nuttx/!svn/ver/1456/trunk/misc/buildroot/toolchain/gcc/4.2.4/904-flatten-switch-stmt-00.patch
+END
+307-locale_facets.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/nuttx/!svn/ver/1456/trunk/misc/buildroot/toolchain/gcc/4.2.4/307-locale_facets.patch
+END
+940-nuttx-nolibstdc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/nuttx/!svn/ver/1703/trunk/misc/buildroot/toolchain/gcc/4.2.4/940-nuttx-nolibstdc.patch
+END
+304-index_macro.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/nuttx/!svn/ver/1456/trunk/misc/buildroot/toolchain/gcc/4.2.4/304-index_macro.patch
+END
+930-nuttx-nolibc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/nuttx/!svn/ver/1465/trunk/misc/buildroot/toolchain/gcc/4.2.4/930-nuttx-nolibc.patch
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/nuttx/!svn/ver/3534/trunk/misc/buildroot/package/config
+END
+Kconfig-language.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/Kconfig-language.txt
+END
+zconf.tab.c_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/zconf.tab.c_shipped
+END
+lkc_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/lkc_proto.h
+END
+mconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/mconf.c
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/menu.c
+END
+symbol.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/symbol.c
+END
+zconf.tab.h_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/zconf.tab.h_shipped
+END
+zconf.y
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/zconf.y
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/util.c
+END
+lkc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/lkc.h
+END
+expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/expr.c
+END
+confdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/confdata.c
+END
+lex.zconf.c_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/lex.zconf.c_shipped
+END
+expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/expr.h
+END
+conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/conf.c
+END
+zconf.l
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/zconf.l
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/config/Makefile
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/nuttx/!svn/ver/1753/trunk/misc/buildroot/toolchain/gcc/3.4.6
+END
+300-libstdc++-pic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.4.6/300-libstdc++-pic.patch
+END
+71_all_sh-pr16665-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.4.6/71_all_sh-pr16665-fix.patch
+END
+910-gcc-3.4.6-ocreatmode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/nuttx/!svn/ver/1753/trunk/misc/buildroot/toolchain/gcc/3.4.6/910-gcc-3.4.6-ocreatmode.patch
+END
+73_all_sh-pr20617.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.4.6/73_all_sh-pr20617.patch
+END
+600-gcc34-arm-ldm-peephole.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.4.6/600-gcc34-arm-ldm-peephole.patch
+END
+304-index_macro.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.4.6/304-index_macro.patch
+END
+810-mips-xgot.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.4.6/810-mips-xgot.patch
+END
+601-gcc34-arm-ldm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.4.6/601-gcc34-arm-ldm.patch
+END
+72_all_sh-no-reorder-blocks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.4.6/72_all_sh-no-reorder-blocks.patch
+END
+900-nios2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.4.6/900-nios2.patch
+END
+800-arm-bigendian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.4.6/800-arm-bigendian.patch
+END
+602-sdk-libstdc++-includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.4.6/602-sdk-libstdc++-includes.patch
+END
+700-pr15068-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.4.6/700-pr15068-fix.patch
+END
+601-gcc34-arm-ldm-peephole2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.4.6/601-gcc34-arm-ldm-peephole2.patch
+END
+arm-softfloat.patch.conditional
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.4.6/arm-softfloat.patch.conditional
+END

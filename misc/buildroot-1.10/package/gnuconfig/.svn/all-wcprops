@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/nuttx/!svn/ver/1137/trunk/misc/buildroot/package/gnuconfig
+END
+README.buildroot
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/README.buildroot
+END
+gnuconfig.mk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/gnuconfig.mk
+END
+uname
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/uname
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/ChangeLog
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/config.guess
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/Makefile
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/config.sub
+END

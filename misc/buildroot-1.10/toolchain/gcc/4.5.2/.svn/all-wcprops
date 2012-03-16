@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/nuttx/!svn/ver/3539/trunk/misc/buildroot/toolchain/gcc/4.5.2
+END
+810-arm-softfloat-libgcc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/nuttx/!svn/ver/3535/trunk/misc/buildroot/toolchain/gcc/4.5.2/810-arm-softfloat-libgcc.patch
+END
+830-arm-pr43440.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/nuttx/!svn/ver/3535/trunk/misc/buildroot/toolchain/gcc/4.5.2/830-arm-pr43440.patch
+END
+820-arm-unbreak-armv4t.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/nuttx/!svn/ver/3535/trunk/misc/buildroot/toolchain/gcc/4.5.2/820-arm-unbreak-armv4t.patch
+END
+305-libmudflap-susv3-legacy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/nuttx/!svn/ver/3535/trunk/misc/buildroot/toolchain/gcc/4.5.2/305-libmudflap-susv3-legacy.patch
+END
+900-nuttx-nolibstdc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/nuttx/!svn/ver/3539/trunk/misc/buildroot/toolchain/gcc/4.5.2/900-nuttx-nolibstdc.patch
+END
+850-arm-pr44392.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/nuttx/!svn/ver/3535/trunk/misc/buildroot/toolchain/gcc/4.5.2/850-arm-pr44392.patch
+END

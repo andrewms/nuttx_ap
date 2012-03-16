@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/nuttx/!svn/ver/1949/trunk/misc/buildroot/toolchain/nxflat/thumb2
+END
+disthumb2.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/nuttx/!svn/ver/1904/trunk/misc/buildroot/toolchain/nxflat/thumb2/disthumb2.c
+END
+arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/nuttx/!svn/ver/1910/trunk/misc/buildroot/toolchain/nxflat/thumb2/arch.h
+END
+dyncall_skeleton.def
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/nuttx/!svn/ver/1949/trunk/misc/buildroot/toolchain/nxflat/thumb2/dyncall_skeleton.def
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/nuttx/!svn/ver/1904/trunk/misc/buildroot/toolchain/nxflat/thumb2/Makefile
+END

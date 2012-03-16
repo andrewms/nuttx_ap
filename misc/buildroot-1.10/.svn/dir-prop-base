@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 59
+.config
+.config.cmd
+.config.old
+build_*
+toolchain_build_*
+
+
+END

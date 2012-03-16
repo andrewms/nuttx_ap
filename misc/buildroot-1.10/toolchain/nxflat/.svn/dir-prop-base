@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 62
+ldnxflat
+mknxflat
+readnxflat
+.compiled
+.installed
+arch
+*.exe
+
+
+END

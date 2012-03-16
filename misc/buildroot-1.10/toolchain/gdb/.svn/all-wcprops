@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/nuttx/!svn/ver/3293/trunk/misc/buildroot/toolchain/gdb
+END
+gdb.mk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/nuttx/!svn/ver/2912/trunk/misc/buildroot/toolchain/gdb/gdb.mk
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/toolchain/gdb/Config.in
+END

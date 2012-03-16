@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/nuttx/!svn/ver/3571/trunk/misc/buildroot
+END
+.defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/.defconfig
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/nuttx/!svn/ver/3571/trunk/misc/buildroot/ChangeLog
+END
+ReleaseNotes
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/nuttx/!svn/ver/3571/trunk/misc/buildroot/ReleaseNotes
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/Config.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/nuttx/!svn/ver/3397/trunk/misc/buildroot/Makefile
+END
+zipme.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/nuttx/!svn/ver/3294/trunk/misc/buildroot/zipme.sh
+END

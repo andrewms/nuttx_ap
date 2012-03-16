@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/testsuite
+END
+config-guess.data
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/testsuite/config-guess.data
+END
+config-guess.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/testsuite/config-guess.sh
+END
+config-sub.data
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/testsuite/config-sub.data
+END
+config-sub.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/testsuite/config-sub.sh
+END
+uname.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/package/gnuconfig/testsuite/uname.in
+END

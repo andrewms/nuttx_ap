@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/nuttx/!svn/ver/3539/trunk/misc/buildroot/configs
+END
+i486-defconfig-4.3.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/nuttx/!svn/ver/3349/trunk/misc/buildroot/configs/i486-defconfig-4.3.3
+END
+cortexm3-defconfig-nxflat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/cortexm3-defconfig-nxflat
+END
+arm926t-defconfig-nxflat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/nuttx/!svn/ver/2885/trunk/misc/buildroot/configs/arm926t-defconfig-nxflat
+END
+arm920t-eabi-defconfig-4.5.2
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/nuttx/!svn/ver/3539/trunk/misc/buildroot/configs/arm920t-eabi-defconfig-4.5.2
+END
+arm920t-defconfig-4.3.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/nuttx/!svn/ver/3533/trunk/misc/buildroot/configs/arm920t-defconfig-4.3.3
+END
+arm920t-defconfig-4.2.4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/arm920t-defconfig-4.2.4
+END
+cortexm3-defconfig-4.3.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/cortexm3-defconfig-4.3.3
+END
+arm926t-defconfig-4.3.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/nuttx/!svn/ver/2866/trunk/misc/buildroot/configs/arm926t-defconfig-4.3.3
+END
+arm926t-defconfig-4.2.4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/arm926t-defconfig-4.2.4
+END
+m32c-defconfig-4.2.4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/m32c-defconfig-4.2.4
+END
+m32c-defconfig-4.3.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/m32c-defconfig-4.3.3
+END
+m68hc11-config
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/m68hc11-config
+END
+sh-defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/sh-defconfig
+END
+m68hc12-config-4.3.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/m68hc12-config-4.3.3
+END
+arm-defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/arm-defconfig
+END
+m68hc12-config-3.4.6
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/m68hc12-config-3.4.6
+END
+bfin-defconfig-4.2.4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/bfin-defconfig-4.2.4
+END
+h8300_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/h8300_defconfig
+END
+gdb-6_8-cygwin-1_7.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/nuttx/!svn/ver/3286/trunk/misc/buildroot/configs/gdb-6_8-cygwin-1_7.patch
+END
+m68k-defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/m68k-defconfig
+END
+arm7tdmi-defconfig-4.3.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/arm7tdmi-defconfig-4.3.3
+END
+arm7tdmi-defconfig-4.2.4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/arm7tdmi-defconfig-4.2.4
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/nuttx/!svn/ver/3535/trunk/misc/buildroot/configs/README.txt
+END
+m9s12x-config-3.3.6
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/nuttx/!svn/ver/3476/trunk/misc/buildroot/configs/m9s12x-config-3.3.6
+END
+avr-defconfig-4.3.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/configs/avr-defconfig-4.3.3
+END

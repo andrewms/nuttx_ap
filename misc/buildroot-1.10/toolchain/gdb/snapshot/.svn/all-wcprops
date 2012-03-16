@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/snapshot
+END
+400-mips-coredump.patch-2.4.23-29
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/snapshot/400-mips-coredump.patch-2.4.23-29
+END
+680-debian_sim-destdir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/snapshot/680-debian_sim-destdir.patch
+END
+690-debian_member-field-symtab.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/snapshot/690-debian_member-field-symtab.patch
+END
+500-thread-timeout.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/snapshot/500-thread-timeout.patch
+END
+400-mips-nptl-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/snapshot/400-mips-nptl-support.patch
+END

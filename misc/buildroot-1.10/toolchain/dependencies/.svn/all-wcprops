@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/nuttx/!svn/ver/1465/trunk/misc/buildroot/toolchain/dependencies
+END
+dependencies.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/nuttx/!svn/ver/1465/trunk/misc/buildroot/toolchain/dependencies/dependencies.sh
+END
+dependencies.mk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/dependencies/dependencies.mk
+END

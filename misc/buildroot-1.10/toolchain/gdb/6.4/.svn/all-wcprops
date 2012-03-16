@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/toolchain/gdb/6.4
+END
+400-mips-coredump.patch-2.4.23-29
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.4/400-mips-coredump.patch-2.4.23-29
+END
+600-fix-compile-flag-mismatch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.4/600-fix-compile-flag-mismatch.patch
+END
+700-m68hc1x-20060122.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/toolchain/gdb/6.4/700-m68hc1x-20060122.patch
+END
+500-thread-timeout.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.4/500-thread-timeout.patch
+END

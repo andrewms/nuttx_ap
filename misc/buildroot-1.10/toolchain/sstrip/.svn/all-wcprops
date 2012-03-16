@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/sstrip
+END
+sstrip.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/sstrip/sstrip.c
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/sstrip/Config.in
+END
+sstrip.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/sstrip/sstrip.mk
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/nuttx/!svn/ver/1735/trunk/misc/buildroot/toolchain/gcc/4.3.3
+END
+300-libmudflap-susv3-legacy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/nuttx/!svn/ver/1724/trunk/misc/buildroot/toolchain/gcc/4.3.3/300-libmudflap-susv3-legacy.patch
+END
+620-gcc-4.3.2-armeabi-aapcs-linux.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/nuttx/!svn/ver/1724/trunk/misc/buildroot/toolchain/gcc/4.3.3/620-gcc-4.3.2-armeabi-aapcs-linux.patch
+END
+510-backport-fix-for-bug-32044.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/nuttx/!svn/ver/1724/trunk/misc/buildroot/toolchain/gcc/4.3.3/510-backport-fix-for-bug-32044.patch
+END
+700-gcc-4.3.3-arm7arch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/nuttx/!svn/ver/1733/trunk/misc/buildroot/toolchain/gcc/4.3.3/700-gcc-4.3.3-arm7arch.patch
+END
+600-arm_insn-opinit-RTX_CODE-fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/nuttx/!svn/ver/1724/trunk/misc/buildroot/toolchain/gcc/4.3.3/600-arm_insn-opinit-RTX_CODE-fixup.patch
+END
+610-gcc-4.3.0-fix-header.00.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/nuttx/!svn/ver/1724/trunk/misc/buildroot/toolchain/gcc/4.3.3/610-gcc-4.3.0-fix-header.00.patch
+END
+910-nuttx-nolibstdc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/nuttx/!svn/ver/1732/trunk/misc/buildroot/toolchain/gcc/4.3.3/910-nuttx-nolibstdc.patch
+END
+900-nuttx-nolibc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/nuttx/!svn/ver/1732/trunk/misc/buildroot/toolchain/gcc/4.3.3/900-nuttx-nolibc.patch
+END
+630-gcc-4.3.0-cris-pragma-pack-warning-remove.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/nuttx/!svn/ver/1724/trunk/misc/buildroot/toolchain/gcc/4.3.3/630-gcc-4.3.0-cris-pragma-pack-warning-remove.patch
+END
+310-arm-softfloat-libgcc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/nuttx/!svn/ver/1724/trunk/misc/buildroot/toolchain/gcc/4.3.3/310-arm-softfloat-libgcc.patch
+END
+500-backport-fix-for-bug-39076.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/nuttx/!svn/ver/1724/trunk/misc/buildroot/toolchain/gcc/4.3.3/500-backport-fix-for-bug-39076.patch
+END
+920-gcc-4.3.3-objext.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/nuttx/!svn/ver/1735/trunk/misc/buildroot/toolchain/gcc/4.3.3/920-gcc-4.3.3-objext.patch
+END

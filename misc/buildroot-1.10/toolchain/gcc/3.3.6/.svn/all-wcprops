@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/nuttx/!svn/ver/3476/trunk/misc/buildroot/toolchain/gcc/3.3.6
+END
+120-softfloat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.3.6/120-softfloat.patch
+END
+800-arm-bigendian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.3.6/800-arm-bigendian.patch
+END
+820-no-mips-empic-relocs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.3.6/820-no-mips-empic-relocs.patch
+END
+500-loop.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.3.6/500-loop.patch
+END
+830-gcc-bug-num-22167.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.3.6/830-gcc-bug-num-22167.patch
+END
+910-create-mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/nuttx/!svn/ver/3476/trunk/misc/buildroot/toolchain/gcc/3.3.6/910-create-mode.patch
+END
+810-mips-xgot.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gcc/3.3.6/810-mips-xgot.patch
+END
+900-sx12-20101109.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/nuttx/!svn/ver/3279/trunk/misc/buildroot/toolchain/gcc/3.3.6/900-sx12-20101109.patch
+END

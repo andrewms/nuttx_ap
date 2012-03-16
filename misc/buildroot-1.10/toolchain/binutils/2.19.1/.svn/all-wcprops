@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/nuttx/!svn/ver/1737/trunk/misc/buildroot/toolchain/binutils/2.19.1
+END
+300-012_check_ldrunpath_length.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/nuttx/!svn/ver/1726/trunk/misc/buildroot/toolchain/binutils/2.19.1/300-012_check_ldrunpath_length.patch
+END
+400-thumb-cputype.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/nuttx/!svn/ver/1737/trunk/misc/buildroot/toolchain/binutils/2.19.1/400-thumb-cputype.patch
+END
+300-001_ld_makefile_patch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/nuttx/!svn/ver/1726/trunk/misc/buildroot/toolchain/binutils/2.19.1/300-001_ld_makefile_patch.patch
+END
+120-sh-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/nuttx/!svn/ver/1726/trunk/misc/buildroot/toolchain/binutils/2.19.1/120-sh-conf.patch
+END
+110-arm-eabi-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/nuttx/!svn/ver/1726/trunk/misc/buildroot/toolchain/binutils/2.19.1/110-arm-eabi-conf.patch
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3
+END
+730-debian_gdb-fix-tracefork-check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/730-debian_gdb-fix-tracefork-check.patch
+END
+760-debian_vsyscall-bfd-close-result.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/760-debian_vsyscall-bfd-close-result.patch
+END
+660-debian_dwarf-cfa-restore.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/660-debian_dwarf-cfa-restore.patch
+END
+620-debian_static-thread-db.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/620-debian_static-thread-db.patch
+END
+640-debian_dwarf2-frame-signal-unwinder.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/640-debian_dwarf2-frame-signal-unwinder.patch
+END
+500-thread-timeout.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/500-thread-timeout.patch
+END
+750-debian_sparc-singlestep.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/750-debian_sparc-singlestep.patch
+END
+680-debian_sim-destdir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/680-debian_sim-destdir.patch
+END
+400-mips-coredump.patch-2.4.23-29
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/400-mips-coredump.patch-2.4.23-29
+END
+770-debian_vfork-done-spelling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/770-debian_vfork-done-spelling.patch
+END
+690-debian_member-field-symtab.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/690-debian_member-field-symtab.patch
+END
+720-debian_static-threads-test.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/720-debian_static-threads-test.patch
+END
+710-debian_thread-db-multiple-libraries.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/710-debian_thread-db-multiple-libraries.patch
+END
+600-debian_10.selected-frame.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/600-debian_10.selected-frame.patch
+END
+780-debian_gdbserver-rdynamic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/780-debian_gdbserver-rdynamic.patch
+END
+630-debian_24.tracepoint-segv.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/630-debian_24.tracepoint-segv.patch
+END
+790-debian_dwarf2-cfi-warning.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/790-debian_dwarf2-cfi-warning.patch
+END
+810-debian_bfd-no-kylix-crash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/810-debian_bfd-no-kylix-crash.patch
+END
+740-debian_make-cv-type-crash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/740-debian_make-cv-type-crash.patch
+END
+820-debian_disable-linux-fork-messages.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/820-debian_disable-linux-fork-messages.patch
+END
+650-debian_vsyscall-gdb-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/650-debian_vsyscall-gdb-support.patch
+END
+800-debian_linux-use-underscore-exit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/800-debian_linux-use-underscore-exit.patch
+END
+700-debian_cp-pass-by-reference.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/nuttx/!svn/ver/480/trunk/misc/buildroot/toolchain/gdb/6.3/700-debian_cp-pass-by-reference.patch
+END
