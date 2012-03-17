@@ -92,14 +92,14 @@ $(BIN):	$(INSTALLED_APPS)
 		$(call ARCHIVE, $@, $${obj}); \
 	done ; )
 
-.context:
+context:
 	@for dir in $(INSTALLED_APPS) ; do \
 		rm -f $$dir/.context ; \
 		$(MAKE) -C $$dir TOPDIR="$(TOPDIR)"  APPDIR="$(APPDIR)" context ; \
 	done
 	@touch $@
 
-context: .context
+#context: .context
 
 .depend: context Makefile $(SRCS)
 	@for dir in $(INSTALLED_APPS) ; do \
